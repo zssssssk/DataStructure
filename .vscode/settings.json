@@ -1,0 +1,6 @@
+{
+    "cmake.generator": "MinGW Makefiles",
+    "files.associations": {
+        "iostream": "cpp"
+    }
+}
